@@ -2,7 +2,7 @@
 DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
-# myleetcode 
+# leetcode 
 
 ![author](https://img.shields.io/badge/author-aqlzh-blueviolet.svg)![language](https://img.shields.io/badge/language-java-blue.svg)![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
@@ -665,7 +665,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-
+# The Bule cup
 ------------
 
 
