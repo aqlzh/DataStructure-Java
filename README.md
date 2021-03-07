@@ -9,36 +9,10 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 ![author](https://img.shields.io/badge/author-aqlzh-blueviolet.svg)![language](https://img.shields.io/badge/language-java-blue.svg)![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 
-
-## 索引
+# Data structures and Algorithms  
 
 ## Data Structures
 
-> 标识了 ✅ 的专题是完成所有题目了的，没有标识的是还没有做完所有题目的
-
-
-* [Array](#array)
-* [String](#string)
-* [✅ Two Pointers](#two-pointers)
-* [✅ Linked List](#linked-list)
-* [✅ Stack](#stack)
-* [Tree](#tree)
-* [Dynamic programming](#dynamic-programming)
-* [✅ Backtracking](#backtracking)
-* [Depth First Search](#depth-first-search)
-* [Breadth First Search](#breadth-first-search)
-* [Binary Search](#binary-search)
-* [Math](#math)
-* [Hash Table](#hash-table)
-* [✅ Sort](#sort)
-* [✅ Bit Manipulation](#bit-manipulation)
-* [✅ Union Find](#union-find)
-* [✅ Sliding Window](#sliding-window)
-* [✅ Segment Tree](#segment-tree)
-* [✅ Binary Indexed Tree](#binary-indexed-tree)
-
-<br>
-<br>
 
 | 数据结构 | 变种 | 相关题目 | 讲解文章 | 
 |:-------:|:-------|:------|:------|
