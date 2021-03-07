@@ -1,6 +1,8 @@
 # DataStructure-Java
 DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
+开源练习题库
+
 
 # leetcode 
 
@@ -48,9 +50,9 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 |  #  |      题名     |   题解  |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
-|14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_14.java) & Python|简单| 字符串简介
-|26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_26.java) & Python|简单| 总结
-|27|[移除元素](https://leetcode-cn.com/problems/implement-strstr/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_27.java) & Python|简单| 双指针技巧
+|14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_14.java) |简单| 字符串简介
+|26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_26.java) |简单| 总结
+|27|[移除元素](https://leetcode-cn.com/problems/implement-strstr/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_27.java)|简单| 双指针技巧
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_28.java) & Python|简单| 字符串简介
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_54.java) & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basmath/learn/array_and_string/_54.py)|中等| 二维数组简介
 |66|[加一](https://leetcode-cn.com/problems/plus-one/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_66.java) & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basmath/learn/array_and_string/_66.py)|简单| 数组简介
