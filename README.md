@@ -72,7 +72,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |724|[寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_724.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basmath/learn/array_and_string/_724.py)| 简单 | 数组简介
 |747|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_747.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basmath/learn/array_and_string/_747.py)| 简单| 数组简介
 
-|-----|----------------|:---------------:|:--------:|:-------------:
+|LIne|   分割线  |   Java  | Easy|  分割线Line 
 
 |NULL|[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_747.java)  | 简单| 其他
 
