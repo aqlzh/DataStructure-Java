@@ -5,7 +5,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 # 索引
 
-# leetcode 
+
 
 ![author](https://img.shields.io/badge/author-aqlzh-blueviolet.svg)![language](https://img.shields.io/badge/language-java-blue.svg)![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
@@ -48,6 +48,28 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |NP 完全|1. 计算模型<br>2. P 类与 NP 类问题<br>3. NP 完全问题<br>4. NP 完全问题的近似算法<br>|1. 随机存取机 RAM<br>2. 随机存取存储程序机 RASP<br>3. 图灵机<br>4. 非确定性图灵机<br>5. P 类与 NP 类语言<br>6. 多项式时间验证<br>7. 多项式时间变换<br>8. Cook定理<br>9. 合取范式的可满足性问题 CNF-SAT<br>10. 3 元合取范式的可满足性问题 3-SAT<br>11. 团问题 CLIQUE<br>12. 顶点覆盖问题 VERTEX-COVER<br>13. 子集和问题 SUBSET-SUM<br>14. 哈密顿回路问题 HAM-CYCLE<br>15. 旅行售货员问题 TSP<br>16. 顶点覆盖问题的近似算法<br>17. 旅行售货员问题近似算法<br>18. 具有三角不等式性质的旅行售货员问题<br>19. 一般的旅行售货员问题<br>20. 集合覆盖问题的近似算法<br>21. 子集和问题的近似算法<br>22. 子集和问题的指数时间算法<br>23. 子集和问题的多项式时间近似格式<br>||
 |------------|------------------------------------------------------------------|-----------------------------------------------------------------|--------------------|
 
+# 洛谷
+
+
+- **学习**
+  - [顺序结构](#顺序结构)
+  - [分支结构](#分支结构)
+  - [循环结构](#循环结构)
+  - [数组](#数组)
+  - [字符串](#字符串)
+  - [函数与结构体](#函数与结构体)
+  
+  ## 学习
+  
+  ###  顺序结构
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|1001 |[	A+B Problem ](https://www.luogu.com.cn/problem/P1001)|[Java]() |简单| 
+
+
+
+# leetcode 
 
 - **学习**
   - [数组 & 字符串](#数组--字符串)
