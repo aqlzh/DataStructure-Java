@@ -732,7 +732,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-# The Bule cup
+# The Bule Cup
 ------------
 
 
