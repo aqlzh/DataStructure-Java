@@ -6,8 +6,8 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 # 索引
 
 - [洛谷](#洛谷)
-- [Lettcode](#Lettcode)
-- [The Bule Cup](#The Bule Cup)
+- [leetcode](#Leetcode)
+- [TheBuleCup](#TheBuleCup)
 
 
 
@@ -732,7 +732,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-# The Bule Cup
+# TheBuleCup
 ------------
 
 
