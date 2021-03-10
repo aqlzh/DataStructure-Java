@@ -71,6 +71,20 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |-----|----------------|:---------------:|:--------:|:-------------:
 |1001 |[	A+B Problem ](https://www.luogu.com.cn/problem/P1001)|[Java]() |简单| 
 
+|1000 |[		超级玛丽游戏  ](https://www.luogu.com.cn/problem/P1000)|[Java]() |简单| 打印字符串
+
+|5704 |[	字母转换 ](https://www.luogu.com.cn/problem/P5704)|[Java]() |简单| ASCII与整型
+
+|5705  |[	数字反转  ](https://www.luogu.com.cn/problem/P5705)|[Java]() |简单| For  循环倒序输出
+
+
+![顺序](https://github.com/aqlzh/DataStructure-Java/blob/main/image/%E6%B4%9B%E8%B0%B7/1.jpg)
+
+
+![顺序](https://github.com/aqlzh/DataStructure-Java/blob/main/image/%E6%B4%9B%E8%B0%B7/2.jpg)
+
+
+
 
 
 # leetcode 
