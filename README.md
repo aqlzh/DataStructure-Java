@@ -69,7 +69,30 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 |  #  |      题名     |   题解  |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
-|1001 |[	A+B Problem ](https://www.luogu.com.cn/problem/P1001)|[Java]() |简单| 
+|1001 |[	A+B Problem ](https://www.luogu.com.cn/problem/P1001)|[Java]() |简单|  入门
+|1000 |[		超级玛丽游戏  ](https://www.luogu.com.cn/problem/P1000)|[Java]() |简单| 打印字符串
+|5704 |[	字母转换 ](https://www.luogu.com.cn/problem/P5704)|[Java]() |简单| ASCII与整型
+|5705  |[	数字反转  ](https://www.luogu.com.cn/problem/P5705)|[Java]() |简单| For  循环倒序输出
+|5706  |[	再分肥宅水 ](https://www.luogu.com.cn/problem/P5706)|[Java]() |简单| format 格式化输出
+|1425  |[	小鱼的游泳时间 ](https://www.luogu.com.cn/problem/P1425)|[Java]() |简单| if else
+|5708 |[	三角形面积 ](https://www.luogu.com.cn/problem/P5708)|[Java]() |简单| Math.sqrt
+|1421 |[	小玉买文具 ](https://www.luogu.com.cn/problem/P1421)|[Java]() |简单| 化整
+
+
+
+
+
+  ###  分支结构
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5711 |[闰年判断](https://www.luogu.com.cn/problem/P5711)|[Java]() |简单| 闰年规则 
+|5712 |[Apples](https://www.luogu.com.cn/problem/P5712)|[Java]() |简单| 判断
+|5713 |[洛谷团队系统](https://www.luogu.com.cn/problem/P5713)|[Java]() |简单| 方程比较
+|1085 |[不高兴的津津](https://www.luogu.com.cn/problem/P1085)|[Java]() |简单|  数组 存储
+|1055 |[ ISBN 号码 ](https://www.luogu.com.cn/problem/P1055)|[Java]() |简单|  需求For  循环算法
+
+
 
 
 
