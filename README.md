@@ -82,11 +82,17 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-  ###  顺序结构
+  ###  分支结构
 
 |  #  |      题名     |   题解  |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
 |5711 |[闰年判断](https://www.luogu.com.cn/problem/P5711)|[Java]() |简单| 闰年规则 
+|5712 |[Apples](https://www.luogu.com.cn/problem/P5712)|[Java]() |简单| 判断
+|5713 |[洛谷团队系统](https://www.luogu.com.cn/problem/P5713)|[Java]() |简单| 方程比较
+|1085 |[不高兴的津津](https://www.luogu.com.cn/problem/P1085)|[Java]() |简单|  数组 存储
+|1055 |[ ISBN 号码 ](https://www.luogu.com.cn/problem/P1055)|[Java]() |简单|  需求For  循环算法
+
+
 
 
 
