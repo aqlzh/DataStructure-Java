@@ -92,6 +92,8 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1085 |[不高兴的津津](https://www.luogu.com.cn/problem/P1085)|[Java]() |简单|  数组 存储
 |1055 |[ ISBN 号码 ](https://www.luogu.com.cn/problem/P1055)|[Java]() |简单|  需求For  循环算法
 |5717 |[ 【深基3.习8】三角形分类  ](https://www.luogu.com.cn/problem/P5717)|[Java]() |简单|  选择
+|1888 |[ 	三角函数  ](https://www.luogu.com.cn/problem/P1888)|[Java]() |简单|  选择
+
 
 
 
