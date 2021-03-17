@@ -14,6 +14,8 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 ![author](https://img.shields.io/badge/author-aqlzh-blueviolet.svg)![language](https://img.shields.io/badge/language-java-blue.svg)![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 
+[参考链接](https://gitee.com/guobinhit/myleetcode)
+
 # Data structures and Algorithms  
 
 ## Data Structures
@@ -97,7 +99,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-
+- [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
 
@@ -437,13 +439,15 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |  #  |      题名     |   题解    |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
 |Sort 1|冒泡排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/BubbleSort.java) )|简单| 排序算法
-|Sort 1|选择排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/SelectionSort.java) )|简单| 排序算法
-|Sort 1|插入排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/InsertSort.java) )|简单| 排序算法
-|Sort 1|希尔排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/ShellSort.java) )|简单| 排序算法
-|Sort 1|归并排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/MergeSort.java) )|简单| 排序算法
-|Sort 1|快速排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/QuickSort.java) )|简单| 排序算法
+|Sort 2|选择排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/SelectionSort.java) )|简单| 排序算法
+|Sort 3|插入排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/InsertSort.java) )|简单| 排序算法
+|Sort 4|希尔排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/ShellSort.java) )|简单| 排序算法
+|Sort 5|归并排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/MergeSort.java) )|简单| 排序算法
+|Sort 6|快速排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/QuickSort.java) )|简单| 排序算法
 
 
+[学习讲解链接1](https://blog.csdn.net/QuantumYou/article/details/114693600?spm=1001.2014.3001.5501)
+[学习讲解链接2](https://blog.csdn.net/QuantumYou/article/details/114799508?spm=1001.2014.3001.5501)
 
 
 ### 搜索算法
