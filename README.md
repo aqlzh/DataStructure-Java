@@ -427,13 +427,22 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 |  #  |      题名     |   题解    |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
-|Sort 1|[冒泡排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/BubbleSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/BubbleSort.py)|简单| 排序算法
-|Sort 2|[插入排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/InsertSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/InsertSort.py)|简单| 排序算法
-|Sort 3|[选择排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm) | [Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/SelectSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/SelectSort.py)|简单| 排序算法
-|Sort 4|[快速排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/QuickSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/QuickSort.py)|简单| 排序算法
-|Sort 5|[归并排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/MergeSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/MergeSort.py)|中等| 排序算法
 |Sort 6|[堆排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/HeapSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/HeapSort.py)|中等| 排序算法
 |Sort 7|[桶排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/BucketSort.java)  & Python|简单| 排序算法
+
+
+
+
+
+|  #  |      题名     |   题解    |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|Sort 1|冒泡排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/BubbleSort.java) )|简单| 排序算法
+|Sort 1|选择排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/SelectionSort.java) )|简单| 排序算法
+|Sort 1|插入排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/InsertSort.java) )|简单| 排序算法
+|Sort 1|希尔排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/ShellSort.java) )|简单| 排序算法
+|Sort 1|归并排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/MergeSort.java) )|简单| 排序算法
+|Sort 1|快速排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/QuickSort.java) )|简单| 排序算法
+
 
 
 
