@@ -192,6 +192,17 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 ### 链表
 
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|1| 顺序表实现 |[Java]() |简单| 数据结构
+|2| 链表实现 |[Java]() |简单| 数据结构
+|3| 双向链表实现 |[Java]() |简单| 数据结构
+
+
+
+
+
 |  #  |      题名     |   题解  |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/linked_list/_2.java) & Python|中等| 总结
@@ -458,7 +469,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |Search 2|[插值搜索](https://gitee.com/guobinhit/myleetcode#search-algorithm) | [Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/search_algorithm/InterpolationSearch.java) & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/search_algorithm/InterpolationSearch.py)|简单| 搜索算法
 |Search 3|[顺序搜索](https://gitee.com/guobinhit/myleetcode#search-algorithm) | [Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/search_algorithm/OrderSearch.java) & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/search_algorithm/OrderSearch.py)|简单| 搜索算法
 
-
+- [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 ## 面试
 ### 常见面试题
