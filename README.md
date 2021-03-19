@@ -95,8 +95,9 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1055 |[ ISBN 号码 ](https://www.luogu.com.cn/problem/P1055)|[Java]() |简单|  需求For  循环算法
 |5717 |[ 【深基3.习8】三角形分类  ](https://www.luogu.com.cn/problem/P5717)|[Java]() |简单|  选择
 |1888 |[ 	三角函数  ](https://www.luogu.com.cn/problem/P1888)|[Java]() |简单|  选择
-
-
+|5715|[ 三位数排序	](https://www.luogu.com.cn/problem/P5715)|[Java]() |简单|  Arrays.Sort  
+|5715|[ [COCI2006-2007#2] ABC	](https://www.luogu.com.cn/problem/P4414)|[Java]() |简单|  对应排序  
+ 
 
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
