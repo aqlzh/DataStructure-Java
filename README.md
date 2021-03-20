@@ -14,6 +14,8 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 ![author](https://img.shields.io/badge/author-aqlzh-blueviolet.svg)![language](https://img.shields.io/badge/language-java-blue.svg)![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 
+[参考链接](https://gitee.com/guobinhit/myleetcode)
+
 # Data structures and Algorithms  
 
 ## Data Structures
@@ -93,11 +95,12 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1055 |[ ISBN 号码 ](https://www.luogu.com.cn/problem/P1055)|[Java]() |简单|  需求For  循环算法
 |5717 |[ 【深基3.习8】三角形分类  ](https://www.luogu.com.cn/problem/P5717)|[Java]() |简单|  选择
 |1888 |[ 	三角函数  ](https://www.luogu.com.cn/problem/P1888)|[Java]() |简单|  选择
+|5715|[ 三位数排序	](https://www.luogu.com.cn/problem/P5715)|[Java]() |简单|  Arrays.Sort  
+|5715|[ [COCI2006-2007#2] ABC	](https://www.luogu.com.cn/problem/P4414)|[Java]() |简单|  对应排序  
+ 
 
 
-
-
-
+- [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
 
@@ -132,7 +135,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
   - [跟谁学](#跟谁学)
 
 
-
+- [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 ## 学习
 ### 数组 & 字符串
@@ -189,6 +192,17 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 ### 链表
+
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|1| 顺序表实现 |[Java]() |简单| 数据结构
+|2| 链表实现 |[Java]() |简单| 数据结构
+|3| 双向链表实现 |[Java]() |简单| 数据结构
+
+
+
+
 
 |  #  |      题名     |   题解  |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
@@ -427,14 +441,25 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 |  #  |      题名     |   题解    |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
-|Sort 1|[冒泡排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/BubbleSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/BubbleSort.py)|简单| 排序算法
-|Sort 2|[插入排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/InsertSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/InsertSort.py)|简单| 排序算法
-|Sort 3|[选择排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm) | [Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/SelectSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/SelectSort.py)|简单| 排序算法
-|Sort 4|[快速排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/QuickSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/QuickSort.py)|简单| 排序算法
-|Sort 5|[归并排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/MergeSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/MergeSort.py)|中等| 排序算法
 |Sort 6|[堆排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/HeapSort.java)  & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/sort_algorithm/HeapSort.py)|中等| 排序算法
 |Sort 7|[桶排序](https://gitee.com/guobinhit/myleetcode#sort-algorithm)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/sort_algorithm/BucketSort.java)  & Python|简单| 排序算法
 
+
+
+
+
+|  #  |      题名     |   题解    |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|Sort 1|冒泡排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/BubbleSort.java) )|简单| 排序算法
+|Sort 2|选择排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/SelectionSort.java) )|简单| 排序算法
+|Sort 3|插入排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/InsertSort.java) )|简单| 排序算法
+|Sort 4|希尔排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/ShellSort.java) )|简单| 排序算法
+|Sort 5|归并排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/MergeSort.java) )|简单| 排序算法
+|Sort 6|快速排序|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/Sort/QuickSort.java) )|简单| 排序算法
+
+
+[学习讲解链接1](https://blog.csdn.net/QuantumYou/article/details/114693600?spm=1001.2014.3001.5501)
+[学习讲解链接2](https://blog.csdn.net/QuantumYou/article/details/114799508?spm=1001.2014.3001.5501)
 
 
 ### 搜索算法
@@ -445,7 +470,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |Search 2|[插值搜索](https://gitee.com/guobinhit/myleetcode#search-algorithm) | [Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/search_algorithm/InterpolationSearch.java) & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/search_algorithm/InterpolationSearch.py)|简单| 搜索算法
 |Search 3|[顺序搜索](https://gitee.com/guobinhit/myleetcode#search-algorithm) | [Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basinfo/search_algorithm/OrderSearch.java) & [Python](https://gitee.com/guobinhit/myleetcode/blob/master/codes/python/leetcodes/src/main/python/com/hit/basinfo/search_algorithm/OrderSearch.py)|简单| 搜索算法
 
-
+- [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 ## 面试
 ### 常见面试题
