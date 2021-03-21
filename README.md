@@ -100,6 +100,17 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1422|[	小玉家的电费	](https://www.luogu.com.cn/problem/P1422)|[Java]() |简单|  else if  浮点格式输出 
 
 
+
+ ###  循环结构
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5718 |[闰找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() |简单| 基本
+|5719 |[分类平均](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 基本
+|5720 |[一尺之棰](https://www.luogu.com.cn/problem/P5720)|[Java]() |简单| while 循环
+
+
+
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
