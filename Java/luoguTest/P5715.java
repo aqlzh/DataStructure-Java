@@ -1,5 +1,6 @@
 package luoguTest;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class P5715 {
@@ -7,15 +8,17 @@ public class P5715 {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in) ;
-		int a = sc.nextInt() ;
 		
-		if(a == 0) {
-			System.out.println("Today, I ate 0 apple.");
-		} else if( a == 1){
-			System.out.println("Today, I ate 1 apple.");
-		} else {
-			System.out.format("Today, I ate %d apples.",a);
+		int [] arr = new int [3] ; 
+		for (int i = 0 ; i < 3 ; i++) {
+			arr[i] = sc.nextInt() ;
 		}
+		
+	     Arrays.sort(arr);
+	     
+	     for(int i : arr) {
+	    	 System.out.print(i + " ");
+	     }
 	}
 
 }
