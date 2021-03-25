@@ -114,7 +114,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |2669 |[金币](https://www.luogu.com.cn/problem/P2669)|[Java]() |简单| 
 |5722 |[数列求和](https://www.luogu.com.cn/problem/P5722)|[Java]() |简单|
 |5723 |[质数口袋](https://www.luogu.com.cn/problem/P5723)|[Java]() |中等|
-|1217 |[回文质数](https://www.luogu.com.cn/problem/P1217)|[Java]() |中等| 
+|1217 |[回文质数](https://www.luogu.com.cn/problem/P1217)|[Java]() |中等| 质数 回文数 算法
 
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
