@@ -96,8 +96,25 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5717 |[ 【深基3.习8】三角形分类  ](https://www.luogu.com.cn/problem/P5717)|[Java]() |简单|  选择
 |1888 |[ 	三角函数  ](https://www.luogu.com.cn/problem/P1888)|[Java]() |简单|  选择
 |5715|[ 三位数排序	](https://www.luogu.com.cn/problem/P5715)|[Java]() |简单|  Arrays.Sort  
-|5715|[ [COCI2006-2007#2] ABC	](https://www.luogu.com.cn/problem/P4414)|[Java]() |简单|  对应排序  
- 
+|4414|[ [COCI2006-2007#2] ABC	](https://www.luogu.com.cn/problem/P4414)|[Java]() |简单|  对应排序  
+|1422|[	小玉家的电费	](https://www.luogu.com.cn/problem/P1422)|[Java]() |简单|  else if  浮点格式输出 
+
+
+
+ ###  循环结构
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5718 |[闰找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() |简单| 基本
+|5719 |[分类平均](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 基本 用法
+|5720 |[一尺之棰](https://www.luogu.com.cn/problem/P5720)|[Java]() |简单| while 简单循环
+|5721 |[数字直角三角形](https://www.luogu.com.cn/problem/P5721)|[Java]() |简单| while 简单循环
+|1980 |[计数问题](https://www.luogu.com.cn/problem/P1980)|[Java]() |简单| 
+|1035 |[级数求和](https://www.luogu.com.cn/problem/P1035)|[Java]() |简单|
+|2669 |[金币](https://www.luogu.com.cn/problem/P2669)|[Java]() |简单| 
+|5722 |[数列求和](https://www.luogu.com.cn/problem/P5722)|[Java]() |简单|
+|5723 |[质数口袋](https://www.luogu.com.cn/problem/P5723)|[Java]() |中等|
+|1217 |[回文质数](https://www.luogu.com.cn/problem/P1217)|[Java]() |中等| 
 
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
