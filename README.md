@@ -101,6 +101,20 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
+
+  ###  循环结构
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5718 |[	【深基4.例2】找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
+|5719 |[	【深基4.例3】分类平均](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
+|5718 |[		【深基4.例4】一尺之棰](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
+|5719 |[	【深基4.例6】数字直角三角形](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
+|5718 |[		[NOIP2013 普及组] 计数问题](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
+|5719 |[	[NOIP2002 普及组] 级数求和](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
+|5718 |[		[NOIP2015 普及组] 金币](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
+|5719 |[	【深基4.例11】数列求和](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
+
  ###  循环结构
 
 |  #  |      题名     |   题解  |   难度  | 标签                   
