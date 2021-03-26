@@ -119,7 +119,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 |  #  |      题名     |   题解  |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
-|5718 |[闰找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() |简单| 基本
+|5718 |[寻找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() |简单| 基本
 |5719 |[分类平均](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 基本 用法
 |5720 |[一尺之棰](https://www.luogu.com.cn/problem/P5720)|[Java]() |简单| while 简单循环
 |5721 |[数字直角三角形](https://www.luogu.com.cn/problem/P5721)|[Java]() |简单| while 简单循环
@@ -129,7 +129,19 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5722 |[数列求和](https://www.luogu.com.cn/problem/P5722)|[Java]() |简单|
 |5723 |[质数口袋](https://www.luogu.com.cn/problem/P5723)|[Java]() |中等|
 |1217 |[回文质数](https://www.luogu.com.cn/problem/P1217)|[Java]() |中等| 质数 回文数 算法
+|1423 |[小玉在游泳](https://www.luogu.com.cn/problem/P1423)|[Java]() |中等| 等差 比 数列 求和
+|1307 |[小玉在游泳](https://www.luogu.com.cn/problem/P1307)|[Java]() |中等| 数字翻转  求模运算
+|5724 |[求极差](https://www.luogu.com.cn/problem/P5724)|[Java]() |中等| 数组排序 
+|1420 |[最长连号](https://www.luogu.com.cn/problem/P1420)|[Java]() |中等|
 
+
+ ###  数组
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|1428 |[小鱼比可爱](https://www.luogu.com.cn/problem/P1428)|[Java]() |简单| 基本
+|1427 |[小鱼的数字游戏](https://www.luogu.com.cn/problem/P1427)|[Java]() |简单| 基本 用法
+|5727 |[冰雹猜想](https://www.luogu.com.cn/problem/P5727)|[Java]() |简单| 基本 用法
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
