@@ -78,7 +78,7 @@ public class P1217 {
 	
 	
 	public static Boolean ss(long  n) {
-		for(int i = 2 ; i < Math.sqrt(n) ; i++)
+		for(long i = 2 ; i < Math.sqrt(n) ; i++)
 			 if (n%i==0) return false;
 			return true ;
 	}
