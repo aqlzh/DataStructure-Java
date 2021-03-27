@@ -130,7 +130,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5723 |[质数口袋](https://www.luogu.com.cn/problem/P5723)|[Java]() |中等|
 |1217 |[回文质数](https://www.luogu.com.cn/problem/P1217)|[Java]() |中等| 质数 回文数 算法
 |1423 |[小玉在游泳](https://www.luogu.com.cn/problem/P1423)|[Java]() |中等| 等差 比 数列 求和
-|1307 |[小玉在游泳](https://www.luogu.com.cn/problem/P1307)|[Java]() |中等| 数字翻转  求模运算
+|1307 |[数字翻转](https://www.luogu.com.cn/problem/P1307)|[Java]() |中等| 数字翻转  求模运算
 |5724 |[求极差](https://www.luogu.com.cn/problem/P5724)|[Java]() |中等| 数组排序 
 |1420 |[最长连号](https://www.luogu.com.cn/problem/P1420)|[Java]() |中等|
 
