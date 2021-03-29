@@ -142,14 +142,14 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1428 |[小鱼比可爱](https://www.luogu.com.cn/problem/P1428)|[Java]() |简单| 注意数组临界点
 |1427 |[小鱼的数字游戏](https://www.luogu.com.cn/problem/P1427)|[Java]() |简单| 倒序输出
 |5727 |[冰雹猜想](https://www.luogu.com.cn/problem/P5727)|[Java]() |简单| 基本算法
-|1047 |[校门外的树](https://www.luogu.com.cn/problem/P1047)|[Java]() |简单| 0 1 思想去重
+|1047 |[校门外的树](https://www.luogu.com.cn/problem/P1047)|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/luoguArray/P1047.java) |简单| 0 1 思想去重
 |5728 |[旗鼓相当的对手](https://www.luogu.com.cn/problem/P5728)|[Java]() |简单| 二维数组 封装函数调用
 |5729 |[工艺品制作](https://www.luogu.com.cn/problem/P5729)|[Java]() |简单| 0 1 思想去重
 |2615 |[神奇的幻方](https://www.luogu.com.cn/problem/P2615)|[Java]() |简单|  幻方规律  二维数组移动
 |5730|[【深基5.例10】显示屏](https://www.luogu.com.cn/problem/P5730)|[Java]() |简单|  行思想 数组打印
 |1554 |[梦中的统计](https://www.luogu.com.cn/problem/P1554)|[Java]() |简单|  
 |2141 |	[[NOIP2014 普及组] 珠心算测验](https://www.luogu.com.cn/problem/P2141)|[Java]() |简单| 
-|1614 |	[	爱与愁的心痛] (https://www.luogu.com.cn/problem/P614)|[Java]() |简单| 
+|1614 |	[	爱与愁的心痛](https://www.luogu.com.cn/problem/P614)|[Java]() |简单| 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
