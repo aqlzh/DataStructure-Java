@@ -146,7 +146,10 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5728 |[旗鼓相当的对手](https://www.luogu.com.cn/problem/P5728)|[Java]() |简单| 二维数组 封装函数调用
 |5729 |[工艺品制作](https://www.luogu.com.cn/problem/P5729)|[Java]() |简单| 0 1 思想去重
 |2615 |[神奇的幻方](https://www.luogu.com.cn/problem/P2615)|[Java]() |简单|  幻方规律  二维数组移动
-
+|5730|[【深基5.例10】显示屏](https://www.luogu.com.cn/problem/P5730)|[Java]() |简单|  行思想 数组打印
+|1554 |[梦中的统计](https://www.luogu.com.cn/problem/P1554)|[Java]() |简单|  
+|2141 |	[NOIP2014 普及组] 珠心算测验](https://www.luogu.com.cn/problem/P2141)|[Java]() |简单| 
+|1614 |	[	爱与愁的心痛] 珠心算测验](https://www.luogu.com.cn/problem/P614)|[Java]() |简单| 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
