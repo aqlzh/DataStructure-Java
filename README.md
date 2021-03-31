@@ -102,18 +102,6 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-  ###  循环结构
-
-|  #  |      题名     |   题解  |   难度  | 标签                   
-|-----|----------------|:---------------:|:--------:|:-------------:
-|5718 |[	【深基4.例2】找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	【深基4.例3】分类平均](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
-|5718 |[		【深基4.例4】一尺之棰](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	【深基4.例6】数字直角三角形](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
-|5718 |[		[NOIP2013 普及组] 计数问题](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	[NOIP2002 普及组] 级数求和](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
-|5718 |[		[NOIP2015 普及组] 金币](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	【深基4.例11】数列求和](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
 
  ###  循环结构
 
@@ -149,7 +137,11 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5730|[【深基5.例10】显示屏](https://www.luogu.com.cn/problem/P5730)|[Java]() |简单|  行思想 数组打印
 |1554 |[梦中的统计](https://www.luogu.com.cn/problem/P1554)|[Java]() |简单|  
 |2141 |	[[NOIP2014 普及组] 珠心算测验](https://www.luogu.com.cn/problem/P2141)|[Java]() |简单| 
-|1614 |	[	爱与愁的心痛](https://www.luogu.com.cn/problem/P614)|[Java]() |简单| 
+|1614 |	[	爱与愁的心痛](https://www.luogu.com.cn/problem/P1614)|[Java]() |简单| 
+|2911 |	[		[USACO08OCT]Bovine Bones G](https://www.luogu.com.cn/problem/P2911)|[Java]() |简单| 
+|1161 |	[开灯](https://www.luogu.com.cn/problem/P1161)|[Java]() |简单| 
+|5731 |	[【深基5.习6】蛇形方阵](https://www.luogu.com.cn/problem/P5731)|[Java]() |简单| 
+|5732 |	[【深基5.习7】杨辉三角](https://www.luogu.com.cn/problem/P5732)|[Java]() |简单| 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
