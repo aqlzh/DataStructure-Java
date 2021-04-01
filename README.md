@@ -102,18 +102,6 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
-  ###  循环结构
-
-|  #  |      题名     |   题解  |   难度  | 标签                   
-|-----|----------------|:---------------:|:--------:|:-------------:
-|5718 |[	【深基4.例2】找最小值](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	【深基4.例3】分类平均](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
-|5718 |[		【深基4.例4】一尺之棰](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	【深基4.例6】数字直角三角形](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
-|5718 |[		[NOIP2013 普及组] 计数问题](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	[NOIP2002 普及组] 级数求和](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
-|5718 |[		[NOIP2015 普及组] 金币](https://www.luogu.com.cn/problem/P5718)|[Java]() | 简单| 
-|5719 |[	【深基4.例11】数列求和](https://www.luogu.com.cn/problem/P5719)|[Java]() |简单| 
 
  ###  循环结构
 
@@ -130,7 +118,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5723 |[质数口袋](https://www.luogu.com.cn/problem/P5723)|[Java]() |中等|
 |1217 |[回文质数](https://www.luogu.com.cn/problem/P1217)|[Java]() |中等| 质数 回文数 算法
 |1423 |[小玉在游泳](https://www.luogu.com.cn/problem/P1423)|[Java]() |中等| 等差 比 数列 求和
-|1307 |[小玉在游泳](https://www.luogu.com.cn/problem/P1307)|[Java]() |中等| 数字翻转  求模运算
+|1307 |[数字翻转](https://www.luogu.com.cn/problem/P1307)|[Java]() |中等| 数字翻转  求模运算
 |5724 |[求极差](https://www.luogu.com.cn/problem/P5724)|[Java]() |中等| 数组排序 
 |1420 |[最长连号](https://www.luogu.com.cn/problem/P1420)|[Java]() |中等|
 
@@ -142,11 +130,18 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1428 |[小鱼比可爱](https://www.luogu.com.cn/problem/P1428)|[Java]() |简单| 注意数组临界点
 |1427 |[小鱼的数字游戏](https://www.luogu.com.cn/problem/P1427)|[Java]() |简单| 倒序输出
 |5727 |[冰雹猜想](https://www.luogu.com.cn/problem/P5727)|[Java]() |简单| 基本算法
-|1047 |[校门外的树](https://www.luogu.com.cn/problem/P1047)|[Java]() |简单| 0 1 思想去重
+|1047 |[校门外的树](https://www.luogu.com.cn/problem/P1047)|[Java](https://github.com/aqlzh/DataStructure-Java/blob/main/Java/luoguArray/P1047.java) |简单| 0 1 思想去重
 |5728 |[旗鼓相当的对手](https://www.luogu.com.cn/problem/P5728)|[Java]() |简单| 二维数组 封装函数调用
 |5729 |[工艺品制作](https://www.luogu.com.cn/problem/P5729)|[Java]() |简单| 0 1 思想去重
 |2615 |[神奇的幻方](https://www.luogu.com.cn/problem/P2615)|[Java]() |简单|  幻方规律  二维数组移动
-
+|5730|[【深基5.例10】显示屏](https://www.luogu.com.cn/problem/P5730)|[Java]() |简单|  行思想 数组打印
+|1554 |[梦中的统计](https://www.luogu.com.cn/problem/P1554)|[Java]() |简单|  
+|2141 |	[[NOIP2014 普及组] 珠心算测验](https://www.luogu.com.cn/problem/P2141)|[Java]() |简单| 
+|1614 |	[	爱与愁的心痛](https://www.luogu.com.cn/problem/P1614)|[Java]() |简单| 
+|2911 |	[		[USACO08OCT]Bovine Bones G](https://www.luogu.com.cn/problem/P2911)|[Java]() |简单| 
+|1161 |	[开灯](https://www.luogu.com.cn/problem/P1161)|[Java]() |简单| 
+|5731 |	[【深基5.习6】蛇形方阵](https://www.luogu.com.cn/problem/P5731)|[Java]() |简单| 
+|5732 |	[【深基5.习7】杨辉三角](https://www.luogu.com.cn/problem/P5732)|[Java]() |简单| 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
