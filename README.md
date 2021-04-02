@@ -142,6 +142,22 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1161 |	[开灯](https://www.luogu.com.cn/problem/P1161)|[Java]() |简单| 
 |5731 |	[【深基5.习6】蛇形方阵](https://www.luogu.com.cn/problem/P5731)|[Java]() |简单| 
 |5732 |	[【深基5.习7】杨辉三角](https://www.luogu.com.cn/problem/P5732)|[Java]() |简单| 
+
+
+
+
+ ###  数组
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5733 |[【深基6.例1】自动修正](https://www.luogu.com.cn/problem/P5733)|[Java]() |简单| 
+|1914 |[小书童——凯撒密码](https://www.luogu.com.cn/problem/P1914)|[Java]() |简单| 
+|1125 |[	[NOIP2008 提高组] 笨小猴](https://www.luogu.com.cn/problem/P1125)|[Java]() |简单| 
+|5015 |[	[NOIP2018 普及组] 标题统计] 笨小猴](https://www.luogu.com.cn/problem/P5015)|[Java]() |简单| 
+|5734 |[【深基6.例6】文字处理软件] 笨小猴](https://www.luogu.com.cn/problem/P5734)|[Java]() |简单| 
+
+
+
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
