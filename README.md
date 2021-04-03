@@ -155,6 +155,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1125 |[	[NOIP2008 提高组] 笨小猴](https://www.luogu.com.cn/problem/P1125)|[Java]() |简单| 
 |5015 |[	[NOIP2018 普及组] 标题统计 ](https://www.luogu.com.cn/problem/P5015)|[Java]() |简单| 
 |5734 |[【深基6.例6】文字处理软件 ](https://www.luogu.com.cn/problem/P5734)|[Java]() |简单| 
+|1308 |[	[NOIP2011 普及组] 统计单词数 ](https://www.luogu.com.cn/problem/P1308)|[Java]() |简单| 
 
 
 
