@@ -156,6 +156,11 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |5015 |[	[NOIP2018 普及组] 标题统计 ](https://www.luogu.com.cn/problem/P5015)|[Java]() |简单| 
 |5734 |[【深基6.例6】文字处理软件 ](https://www.luogu.com.cn/problem/P5734)|[Java]() |简单| 
 |1308 |[	[NOIP2011 普及组] 统计单词数 ](https://www.luogu.com.cn/problem/P1308)|[Java]() |简单| 
+|1765 |[ 手机 ](https://www.luogu.com.cn/problem/P1765)|[Java]() |简单|  打表穷举 注意不能写  else  因为   '\n' , '\r'  
+|3741 |[	honoka的键盘  ] (https://www.luogu.com.cn/problem/P3741)|[Java]() |简单|  穷举所有 排列情况 然后标记
+|1321 |[ 单词覆盖还原 ](https://www.luogu.com.cn/problem/P1321)|[Java]() |简单|  或（||）判断三个连续的字母
+|1553 |[	数字反转（升级版）](https://www.luogu.com.cn/problem/P1553)|[Java]() |简单| 关键为 识别输入的 数据类型
+|1200 |[[USACO1.1]你的飞碟在这儿Your Ride Is Here ](https://www.luogu.com.cn/problem/P1200)|[Java]() |简单| 
 
 
 
