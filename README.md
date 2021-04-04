@@ -142,6 +142,28 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |1161 |	[开灯](https://www.luogu.com.cn/problem/P1161)|[Java]() |简单| 
 |5731 |	[【深基5.习6】蛇形方阵](https://www.luogu.com.cn/problem/P5731)|[Java]() |简单| 
 |5732 |	[【深基5.习7】杨辉三角](https://www.luogu.com.cn/problem/P5732)|[Java]() |简单| 
+
+
+
+
+ ###  字符串
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5733 |[【深基6.例1】自动修正](https://www.luogu.com.cn/problem/P5733)|[Java]() |简单| 
+|1914 |[小书童——凯撒密码](https://www.luogu.com.cn/problem/P1914)|[Java]() |简单| 
+|1125 |[	[NOIP2008 提高组] 笨小猴](https://www.luogu.com.cn/problem/P1125)|[Java]() |简单| 
+|5015 |[	[NOIP2018 普及组] 标题统计 ](https://www.luogu.com.cn/problem/P5015)|[Java]() |简单| 
+|5734 |[【深基6.例6】文字处理软件 ](https://www.luogu.com.cn/problem/P5734)|[Java]() |简单| 
+|1308 |[	[NOIP2011 普及组] 统计单词数 ](https://www.luogu.com.cn/problem/P1308)|[Java]() |简单| 
+|1765 |[ 手机 ](https://www.luogu.com.cn/problem/P1765)|[Java]() |简单|  打表穷举 注意不能写  else  因为   '\n' , '\r'  
+|3741 |[	honoka的键盘 ](https://www.luogu.com.cn/problem/P3741)|[Java]() |简单|  穷举所有 排列情况 然后标记
+|1321 |[ 单词覆盖还原 ](https://www.luogu.com.cn/problem/P1321)|[Java]() |简单|  或 判断三个连续的字母
+|1553 |[	数字反转（升级版）](https://www.luogu.com.cn/problem/P1553)|[Java]() |简单| 关键为 识别输入的 数据类型
+|1200 |[[USACO1.1]你的飞碟在这儿Your Ride Is Here ](https://www.luogu.com.cn/problem/P1200)|[Java]() |简单| 
+
+
+
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
