@@ -164,6 +164,20 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 
+
+ ###  函数与结构体
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|5735 |[ 【深基7.例1】距离函数 ](https://www.luogu.com.cn/problem/P5735)|[Java]() |简单| & 运算符号
+|5736 |[【深基7.例2】质数筛 ](https://www.luogu.com.cn/problem/P5736)|[Java]() |简单| 注意复制时 数组下标问题
+|5737 |[ 【深基7.例3】闰年展示](https://www.luogu.com.cn/problem/P5737)|[Java]() |简单| 能被4 整除不被100 整除 能被400 整除  
+|5738 |[ 	【深基7.例4】歌唱比赛 ](https://www.luogu.com.cn/problem/P5738)|[Java]() |简单| 二维矩阵
+|5739 |[ 	【深基7.例7】计算阶乘 ](https://www.luogu.com.cn/problem/P5739)|[Java]() |简单| 
+|5461 |[ 		赦免战俘 ](https://www.luogu.com.cn/problem/P5461)|[Java]() |中等| 递归二维矩阵
+|5740 |[ 	【深基7.例9】最厉害的学生](https://www.luogu.com.cn/problem/P5740)|[Java]() |简单| Integer.parseInt(str) 
+|2415 |[ 	集合求和 ](https://www.luogu.com.cn/problem/P2415)|[Java]() |简单| 找规律
+
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 # leetcode 
