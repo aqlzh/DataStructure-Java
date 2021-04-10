@@ -866,7 +866,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 
 - **往届试题**
-   - [2020 年省赛真题（Java 大学 B 组)](#2020 第十一届 省赛)
+   - [2020 年省赛真题 Java 大学 B 组](#2020 第十一届 省赛)
 
 
 
