@@ -22,3 +22,7 @@
 ## luoguString
 
 洛谷 算法题 字符串练习
+
+## luoguFunction
+
+洛谷 算法题 函数与结构体练习
