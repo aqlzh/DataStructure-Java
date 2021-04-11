@@ -889,7 +889,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |J |网络分析|[Java]() | 简单|
 
 
-### 2020第十一届省赛
+### 2020第十一届省模拟赛
 
 
 |  #  |      题名     |   题解    |   难度  | 标签                   
