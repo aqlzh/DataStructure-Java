@@ -540,7 +540,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 [学习讲解链接2](https://blog.csdn.net/QuantumYou/article/details/114799508?spm=1001.2014.3001.5501)
 
 
-### 搜索算法
+### 搜索算法 
 
 |  #  |      题名     |   题解    |   难度  | 标签                   
 |-----|----------------|:---------------:|:--------:|:-------------:
@@ -867,7 +867,7 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 
 - **往届试题**
    - [2020 年省赛真题Java大学B组](#2020第十一届省赛)
-
+   - [2020 年省模拟赛Java大学B组](#2020第十一届省模拟赛)
 
 
 ## 往届试题
@@ -888,6 +888,22 @@ DataStructure-Java  for leetcode and  The Bule cup  Solutions
 |I |BST 插入节点问题|[Java]() | 简单|
 |J |网络分析|[Java]() | 简单|
 
+
+### 2020第十一届省赛
+
+
+|  #  |      题名     |   题解    |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|A |计算机存储中有多少字节|[Java]() | 简单|
+|B |合法括号序列|[Java]() | 简单|
+|C |无向连通图最少包含多少条边|[Java]() | 简单|
+|D |字母重新排列|[Java]() | 简单|
+|E |凯撒密码加密|[Java]() | 简单|
+|F |反倍数|[Java]() | 简单|
+|G |正整数的摆动序列|[Java]() | 简单|
+|H |螺旋矩阵|[Java]() | 简单|
+|I |小明植树|[Java]() | 简单|
+|J |户户通电|[Java]() | 简单|
 
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
