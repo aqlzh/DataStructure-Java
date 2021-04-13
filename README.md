@@ -66,6 +66,7 @@
   - [数组](#数组)
   - [字符串](#字符串)
   - [函数与结构体](#函数与结构体)
+  - [暴力枚举](#暴力枚举)
   
   ## 学习
   
@@ -179,6 +180,16 @@
 |5461 |[ 		赦免战俘 ](https://www.luogu.com.cn/problem/P5461)|[Java]() |中等| 递归二维矩阵
 |5740 |[ 	【深基7.例9】最厉害的学生](https://www.luogu.com.cn/problem/P5740)|[Java]() |简单| Integer.parseInt(str) 
 |2415 |[ 	集合求和 ](https://www.luogu.com.cn/problem/P2415)|[Java]() |简单| 找规律
+
+
+ ###  暴力枚举
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|2241 |[ 统计方形（数据加强版）](https://www.luogu.com.cn/problem/P2241)|[Java]() |简单| 
+|2089 |[ 	烤鸡 ](https://www.luogu.com.cn/problem/P2089)|[Java]() |简单| 多重for
+|1618 |[ 		三连击（升级版）](https://www.luogu.com.cn/problem/P1618)|[Java]() |简单| 
+
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
