@@ -164,7 +164,7 @@
 |1321 |[ 单词覆盖还原 ](https://www.luogu.com.cn/problem/P1321)|[Java]() |简单|  或 判断三个连续的字母
 |1553 |[	数字反转（升级版）](https://www.luogu.com.cn/problem/P1553)|[Java]() |简单| 关键为 识别输入的 数据类型
 |1200 |[[USACO1.1]你的飞碟在这儿Your Ride Is Here ](https://www.luogu.com.cn/problem/P1200)|[Java]() |简单| 
-|1597 |[语句解析](https://www.luogu.com.cn/problem/P1597)|[Java]() |Java  报RE代解决:fire: C++ 没问题| 
+|1597 |[语句解析](https://www.luogu.com.cn/problem/P1597)|[Java]() |一般| Java  报RE代解决:fire: C++ 没问题
 
 
 
