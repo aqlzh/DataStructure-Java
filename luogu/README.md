@@ -15,3 +15,13 @@
 ## luoguFunction
 
 洛谷 算法题 函数与结构体练习
+
+
+
+## luoguEnumViolence
+
+洛谷 算法题 暴力枚举练习
+
+## luoguSimulationAndHighPrecision
+
+洛谷 算法题 模拟与高精度 练习
