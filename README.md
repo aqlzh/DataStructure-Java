@@ -181,6 +181,7 @@
 |5461 |[ 		赦免战俘 ](https://www.luogu.com.cn/problem/P5461)|[Java]() |中等| 递归二维矩阵
 |5740 |[ 	【深基7.例9】最厉害的学生](https://www.luogu.com.cn/problem/P5740)|[Java]() |简单| Integer.parseInt(str) 
 |2415 |[ 	集合求和 ](https://www.luogu.com.cn/problem/P2415)|[Java]() |简单| 找规律
+|1304 |[  哥德巴赫猜想	 ](https://www.luogu.com.cn/problem/P1304)|[Java]() |一般| 
 
 
  ###  暴力枚举
