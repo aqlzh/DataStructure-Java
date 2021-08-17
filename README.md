@@ -228,6 +228,9 @@
   - [跟谁学](#跟谁学)
 
 
+- **学习计划**
+  - [20 天【算法】刷题计划](#20天算法刷题计划)
+
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
 ## 学习
@@ -874,6 +877,12 @@
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/interview/top_interview_questions/hard_collection/sorting_and_searching/_378.java) & Python |中等| 排序和搜索
 
 
+## 学习计划
+### 20天算法刷题计划
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|第一天|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_14.java) |简单| 字符串简介
 
 
 # TheBuleCup
