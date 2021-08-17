@@ -1,4 +1,4 @@
-# DataStructure-Java
+# DataStructure-Java    :fire:
 :rocket: DataStructure-Java  for leetcode and  The Bule cup  Solutions  :airplane:
 
  开源练习题库
@@ -18,9 +18,9 @@
 
 [参考链接](https://gitee.com/guobinhit/myleetcode)
 
-# Data structures and Algorithms  
+# Data structures and Algorithms   :speech_balloon:
 
-## Data Structures
+## Data Structures   
 
 
 | 数据结构 | 变种 | 相关题目 | 讲解文章 | 
@@ -181,6 +181,7 @@
 |5461 |[ 		赦免战俘 ](https://www.luogu.com.cn/problem/P5461)|[Java]() |中等| 递归二维矩阵
 |5740 |[ 	【深基7.例9】最厉害的学生](https://www.luogu.com.cn/problem/P5740)|[Java]() |简单| Integer.parseInt(str) 
 |2415 |[ 	集合求和 ](https://www.luogu.com.cn/problem/P2415)|[Java]() |简单| 找规律
+|1304 |[  哥德巴赫猜想	 ](https://www.luogu.com.cn/problem/P1304)|[Java]() |一般| 
 
 
  ###  暴力枚举
@@ -226,6 +227,9 @@
   - [美团点评](#美团点评)
   - [跟谁学](#跟谁学)
 
+
+- **学习计划**
+  - [20 天【算法】刷题计划](#20天算法刷题计划)
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
 
@@ -873,6 +877,12 @@
 |378|[有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/interview/top_interview_questions/hard_collection/sorting_and_searching/_378.java) & Python |中等| 排序和搜索
 
 
+## 学习计划
+### 20天算法刷题计划
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|第一天|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[Java](https://gitee.com/guobinhit/myleetcode/blob/master/codes/java/leetcodes/src/main/java/com/hit/basmath/learn/array_and_string/_14.java) |简单| 字符串简介
 
 
 # TheBuleCup
