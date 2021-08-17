@@ -1,4 +1,4 @@
-# DataStructure-Java
+# DataStructure-Java    :fire:
 :rocket: DataStructure-Java  for leetcode and  The Bule cup  Solutions  :airplane:
 
  开源练习题库
@@ -18,9 +18,9 @@
 
 [参考链接](https://gitee.com/guobinhit/myleetcode)
 
-# Data structures and Algorithms  
+# Data structures and Algorithms   :speech_balloon:
 
-## Data Structures
+## Data Structures   
 
 
 | 数据结构 | 变种 | 相关题目 | 讲解文章 | 
