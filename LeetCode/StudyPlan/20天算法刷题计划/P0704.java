@@ -3,7 +3,7 @@ package leetcodePlan;
 public class P0704 {
 
 	public static void main(String[] args) {
-		 
+		 //   1 day
          //  ‰»Î  nums = [-1,0,3,5,9,12], target = 9
 		int [] nums = {-1,0,3,5,9,12} ;
 		int target = 9 ;
