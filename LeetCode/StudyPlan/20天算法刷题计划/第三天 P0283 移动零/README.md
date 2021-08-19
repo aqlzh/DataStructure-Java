@@ -1,8 +1,22 @@
 ﻿@[toc]
-# 题目
-[跳转链接](https://leetcode-cn.com/problems/move-zeroes/)
+# [题目](https://leetcode-cn.com/problems/move-zeroes/)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/cfd25842bf8d481d97fe7ea39f2a749c.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1F1YW50dW1Zb3U=,size_16,color_FFFFFF,t_70)
+
+- 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
+
+示例:
+
+```bash
+输入: [0,1,0,3,12]
+输出: [1,3,12,0,0]
+```
+
+说明:
+
+必须在原数组上操作，不能拷贝额外的数组。
+尽量减少操作次数。
+
+
 
 # 题解
 - **解法一** ： 暴力解法，借助辅助数组（一开始设置为全零），扫描提供数组，非零复制到拷贝数组
