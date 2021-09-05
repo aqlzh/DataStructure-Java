@@ -1,73 +1,64 @@
 ﻿@[toc]
-# [题目](https://leetcode-cn.com/problems/partition-labels/)
+# 题目
+- 给定一种规律 pattern 和一个字符串 str ，判断 str 是否遵循相同的规律。
 
-- 字符串 S 由小写字母组成。我们要把这个字符串划分为尽可能多的片段，同一字母最多出现在一个片段中。返回一个表示每个字符串片段的长度的列表。
+- 这里的 遵循 指完全匹配，例如， pattern 里的每个字母和字符串 str 中的每个非空单词之间存在着双向连接的对应规律。
 
-示例：
+示例1:
 
 ```bash
-输入：S = "ababcbacadefegdehijhklij"
-输出：[9,7,8]
-解释：
-划分结果为 "ababcbaca", "defegde", "hijhklij"。
-每个字母最多出现在一个片段中。
-像 "ababcbacadefegde", "hijhklij" 的划分是错误的，因为划分的片段数较少。 
+输入: pattern = "abba", str = "dog cat cat dog"
+输出: true
 ```
 
-
 # 题解
-- 求出最先，最后出现的下标，就是一个贪心算法的区间问题。
-- 在遍历的过程中相当于是要找每一个字母的边界，如果找到之前遍历过的所有字母的**最远边界**，说明这个边界就是分割点了。此时前面出现过所有字母，最远也就到这个边界了。
+- Java  哈希表的特性 `map.put()`  如果在原先的哈希表中存在此数，返回次数的个数。如果不存在则返回 `null`
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/27ee4fff1ccb43ee9fd3cec67f4216c3.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUXVhbnR1bVlvdQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+- 根据同步性原理
+- 如果key不存在，插入成功，返回null；如果key存在，返回之前对应的value。
+- 以pattern = "abba", str = "dog cat cat dog"为例，
+- 第1次：map.put('a',0)返回null，map.put("dog",0)返回null，两者相等；
+ - 第2次：map.put('b',1)返回null，map.put("cat",1)返回null，两者相等；
+ - 第3次：map.put('b',2)返回1，map.put("cat",2)返回1，两者相等；
+ - 第4次：map.put('a',3)返回0，map.put("dog",3)返回0，两者相等结果为 true。
 
-- 在遍历的过程中相当于是要找每一个字母的边界，如果找到之前遍历过的所有字母的最远边界，说明这个边界就是分割点了。此时前面出现过所有字母，最远也就到这个边界了。
 
-可以分为如下两步：
+==注意==： `for (Integer i = 0; i < words.length; i++)` 循环中用的是 `Integer i = 0` ，这里已经提前完成了自动装箱，所以循环体内map两次put操作存的value都是同一个Integer对象，不会受到[-128,127]的限制。如果是这样写 `for (int i = 0; i < words.length; i++)` ，那么在循环体内map两次put操作都会执行自动装箱，会受到[-128,127]的限制。
 
-- 统计每一个字符最后出现的位置
-- 从头遍历字符，并更新字符的最远出现下标，如果找到字符最远出现位置下标和当前下标相等了，则找到了分割点
-
- 
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9b74f4d202124ddd8d15de3996916e54.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUXVhbnR1bVlvdQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
 # 代码
+
 ```java
 package leetcodePlan.Base;
 
-import java.util.LinkedList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
-public class P0763 {
+public class P0290 {
 
 	public static void main(String[] args) {
-		String S = "ababcbacadefegdehijhklij" ;
-		System.out.println(fun(S));
+		String pattern = "abba"  ; 
+        String str = "dog cat cat dog" ;
+        System.out.println(fun(pattern,str));
 	}
 	
-	public static List<Integer> fun(String s){
-		List<Integer> list = new LinkedList<>() ;
-		int [] edge = new int[666] ;
-		char [] chars = s.toCharArray() ;
-		
-		for(int i = 0 ; i < chars.length ;i++) {
-			edge[chars[i] - 0 ] = i ;
-		}
-		
-		int idx = 0 ;
-		int last = -1 ;
-		
-		for(int i = 0 ; i < chars.length ;i++) {
-			idx = Math.max(idx, edge[chars[i] - 0]) ;
-			if( i == idx) {
-				list.add(i - last) ;
-				last = i ;
-			}
-		}
-	
-		return list ;
-		
-	}
+    public static boolean fun(String pattern, String s) {
+
+    	String [] words = s.split(" ") ;
+    	
+    	if(words.length != pattern.length()){
+    		return false ;
+    	}
+    	
+    	Map<Object,Integer> map = new HashMap<>() ;
+    	for(int i = 0 ; i < words.length ;i++) {
+    		if(map.put(words[i], i) != map.put(pattern.charAt(i), i)) {
+    			return false ;
+    		}
+    	}
+    	
+    	return true ;
+    }
+
 }
 
 ```
