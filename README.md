@@ -3,7 +3,7 @@
 
  开源练习题库  :smile:
 
-> 我爱计算机科学 ！
+> 我爱计算机科学 ！！
 
 ![](https://github.com/aqlzh/DataStructure-Java/blob/main/image/CS.png)
 
