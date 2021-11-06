@@ -1,5 +1,5 @@
 # DataStructure-Java    :fire:
-:rocket: DataStructure-Java  for leetcode and  The Bule cup  Solutions  :airplane:
+:rocket: DataStructure-Java for leetcode and  The Bule cup  Solutions  :airplane:
 
  开源练习题库  :smile:
 
@@ -9,7 +9,7 @@
 
 # 索引
 
-:triangular_flag_on_post:
+:triangular_flag_on_post: :triangular_flag_on_post:
 
 - [洛谷](#洛谷)
 - [leetcode](#Leetcode)
