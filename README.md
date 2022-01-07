@@ -1,5 +1,5 @@
 # DataStructure-Java    :fire: :fire:
-:rocket: DataStructure-Java for leetcode and  The Bule cup Solutions  :airplane:
+:rocket: DataStructure-Java for leetcode and  The Bule cup Solutions  :airplane::airplane:
 
  开源练习题库   :smile:
 
